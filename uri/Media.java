@@ -1,8 +1,8 @@
 /*
-Nome do autor: Fábio Augusto Amaro Jaime
-Data de criação do arquivo: 16/01/2019
-Objetivo sucinto do programa: Calcula uma media
-Referência ao enunciado/origem do exercício: https://www.urionlinejudge.com.br/judge/pt/problems/view/1006
+Nome do autor: Fï¿½bio Augusto Amaro Jaime
+Data de criaï¿½ï¿½o do arquivo: 16/01/2019
+Objetivo sucinto do programa: Calcula a media tal valor fornecido
+Referï¿½ncia ao enunciado/origem do exercï¿½cio: https://www.urionlinejudge.com.br/judge/pt/problems/view/1006
 */
 
 import java.text.DecimalFormat;
